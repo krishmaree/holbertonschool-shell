@@ -1,4 +1,5 @@
 #!/bin/bash
-ls -la
-ls -la ..
-ls -la /boot
+if [ -d . ]; then ls -la .; fi
+if [ -d .. ]; then (cd ..; ls -la); fi
+if [ -d /boot ]; then ls -la /boot; fi
+
