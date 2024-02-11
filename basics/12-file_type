@@ -1,0 +1,3 @@
+#!/bin/bash
+file_path="/tmp/iamafile"; if [ -e "$file_path" ]; then file -b "$file_path"; else echo "File not found at $file_path"; fi
+
