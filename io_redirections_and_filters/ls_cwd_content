@@ -1,0 +1,31 @@
+0-hello_world
+1-confused_smiley
+2-hellofile
+3-twofiles
+4-lastlines
+5-firstlines
+6-third_line
+7-file
+8-cwd_state
+README.md
+\*\'Best
+\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+iacta
+ls_cwd_content
+total 60
+drwxr-xr-x 2 root root 4096 Feb 17 03:52 .
+drwxr-xr-x 6 root root 4096 Feb 17 02:06 ..
+-rwxr-xr-x 1 root root   33 Feb 17 02:20 0-hello_world
+-rwxr-xr-x 1 root root   28 Feb 17 02:47 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Feb 17 02:56 2-hellofile
+-rwxr-xr-x 1 root root   39 Feb 17 03:25 3-twofiles
+-rwxr-xr-x 1 root root   35 Feb 17 03:29 4-lastlines
+-rwxr-xr-x 1 root root   35 Feb 17 03:31 5-firstlines
+-rwxr-xr-x 1 root root   40 Feb 17 03:41 6-third_line
+-rwxr-xr-x 1 root root   78 Feb 17 03:48 7-file
+-rwxr-xr-x 1 root root   37 Feb 17 03:52 8-cwd_state
+-rw-r--r-- 1 root root   17 Feb 17 02:07 README.md
+-rw-r--r-- 1 root root   38 Feb 17 03:44 \*\'Best
+-rw-r--r-- 1 root root   12 Feb 17 03:48 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Feb 17 03:34 iacta
+-rw-r--r-- 1 root root  191 Feb 17 03:51 ls_cwd_content
